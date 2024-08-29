@@ -17,7 +17,7 @@ ___
 ___
 # **KERNEL**
 
-## Kernel Microkernel
+## Kernel Monolìtico
 
 En un sistema operativo con kernel monolítico, todos los servicios (como la gestión de procesos, memoria y comunicación entre procesos) se ubican en un único espacio de memoria. En otras palabras, el kernel es un solo fragmento de código que lleva a cabo todas las funciones.
 
