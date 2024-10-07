@@ -1,4 +1,4 @@
-# **Actividad 6**
+# **Actividad 7**
 #### **Sistemas Operativos 1**
 ___
 
